@@ -26,7 +26,7 @@ A professional sound level meter based on ESP32 and I2S digital microphone, feat
 
   ![ESP32 Board](images/2.png)
 
-  ![ESP32 Board](images/3.JPG)
+  ![ESP32 Board](images/3.jpg)
 
 ### 🛠️ Hardware Requirements
 
